@@ -6,6 +6,19 @@ Código obtenido de [Basic Layouts in Compose Codelab](https://developer.android
 
 ![](./docs/asset-1.png)
 
+## Tabla de Contenidos
+
+- [Apuntes importantes](#apuntes-importantes)
+  - [1. Imágenes](#1-imágenes)
+  - [2. Ejemplo de un TextField extendido](#2-ejemplo-de-un-textfield-extendido)
+  - [3. Pasar como props recursos (drawable y string)](#3-pasar-como-props-recursos-drawable-y-string)
+  - [4. Column y Row trabajo con elementos](#4-column-y-row-trabajo-con-elementos)
+  - [5. Grid en jetpack](#5-grid-en-jetpack)
+  - [6. Children en jetpack](#6-children-en-jetpack)
+  - [7. Overflow configurado para elementos limitados](#7-overflow-configurado-para-elementos-limitados)
+  - [8. Componentes interesantes](#8-componentes-interesantes)
+  - [9. Responsivo](#9-responsivo)
+
 ## Apuntes importantes
 
 ### 1. Imágenes
